@@ -13,6 +13,7 @@ class ProductSeeder extends Seeder
 {
     public function run(): void
     {
+        echo "porcoddio";
         $productNames = [
             'pen',
             'pencil',
